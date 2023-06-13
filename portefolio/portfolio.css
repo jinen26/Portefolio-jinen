@@ -1,0 +1,31 @@
+body {
+  background-image: url(./pictures/cosmos.jpg);
+}
+#T1 {
+  color: whitesmoke;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 45px;
+  font-weight: 100;
+  margin-bottom: 0;
+}
+#T2 {
+  color: palevioletred;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 60px;
+}
+.title {
+  margin-top: 190px;
+  margin-left: 50px;
+}
+#subtitle {
+  color: beige;
+  font-size: 20px;
+  font-weight: 100;
+}
+#blue {
+  color: rgb(44, 163, 211);
+}
+nav {
+  font-size: 30px;
+  text-
+}
